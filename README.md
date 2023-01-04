@@ -1,6 +1,4 @@
-
-## ![](https://t4.ftcdn.net/jpg/02/05/86/93/240_F_205869372_hYMTs3LfKbuti3J5tX9UZfSZoLW1xZ0V.jpg)
-
+![Cronometro](https://user-images.githubusercontent.com/121300540/210600283-6a02b171-fc34-444a-bd22-b4e6186d7258.png)
 
 
 ##  Cronometro Fácil.
