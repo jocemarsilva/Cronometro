@@ -1,4 +1,4 @@
-# Apresentação
+## Apresentação
 
 ![Cronometro](https://user-images.githubusercontent.com/121300540/210600283-6a02b171-fc34-444a-bd22-b4e6186d7258.png)
 
@@ -18,7 +18,7 @@ Cronômetro e Timer é um aplicativo simples , fácil e preciso, que vai ajudar 
 - Em caso de esquecimento, a cronometragem não se perde com o desligamento do aparelho.
 - versão sem publicidades.
 
-# [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
+## [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Status do Projeto
