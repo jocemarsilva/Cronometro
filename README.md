@@ -10,7 +10,7 @@ Cronômetro e Timer é um aplicativo simples , fácil e preciso, que vai ajudar 
 
 
 
-## 📚 Funcionalidades
+# 📚 Funcionalidades
 
 
 - interface fácil de ver e usar.
